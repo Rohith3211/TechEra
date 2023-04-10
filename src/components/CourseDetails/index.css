@@ -1,0 +1,17 @@
+.main-card {
+  display: flex;
+  justify-content: center;
+  height: 90vh;
+  align-items: center;
+}
+.image-s {
+  height: 280px;
+}
+.s-card {
+  display: flex;
+  box-shadow: 0px 4px 16px 0px #bfbfbf;
+  width: 660px;
+}
+.pad {
+  padding: 3px 20px;
+}
